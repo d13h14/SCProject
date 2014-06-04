@@ -1,0 +1,559 @@
+Campaign ID,Campaign,Ad group ID,Ad group,Keyword ID,Keyword,Clicks,Cost,Impressions
+139402218,Brand & Category_Brand,8105048298,brand & category_brand_bare love,455125031,bare love,0,0,2
+139402218,Brand & Category_Brand,8105048298,brand & category_brand_bare love,456886871,bare love,0,0,1
+139402218,Brand & Category_Brand,8105048298,brand & category_brand_bare love,478670351,bare love,0,0,76
+139402218,Brand & Category_Brand,8105048418,brand & category_brand_glamglow,23513847848,glamglow,6,7650000,339
+139402218,Brand & Category_Brand,8105048418,brand & category_brand_glamglow,26880831312,glamglow,0,0,0
+139402218,Brand & Category_Brand,8105048418,brand & category_brand_glamglow,27407742435,glamglow,0,0,0
+139402218,Brand & Category_Brand,8105048538,brand & category_brand_is clinical,16118610,clinical,0,0,0
+139402218,Brand & Category_Brand,8105048538,brand & category_brand_is clinical,90187069,clinical,0,0,0
+139402218,Brand & Category_Brand,8105048538,brand & category_brand_is clinical,129452118,clinical,0,0,0
+139402218,Brand & Category_Brand,8105048658,brand & category_brand_obagi,23917810,obagi,0,0,0
+139402218,Brand & Category_Brand,8105048658,brand & category_brand_obagi,31617033,obagi,0,0,0
+139402218,Brand & Category_Brand,8105048658,brand & category_brand_obagi,37124460,obagi,0,0,0
+139402218,Brand & Category_Brand,8105048778,brand & category_brand_skinmedica,52985161,skinmedica,0,0,0
+139402218,Brand & Category_Brand,8105048778,brand & category_brand_skinmedica,112757521,skinmedica,0,0,0
+139402218,Brand & Category_Brand,8105048778,brand & category_brand_skinmedica,159876976,skinmedica,0,0,0
+139576218,Custom_In Stock Items,8240826378,Custom_In Stock Items_skinmedica_skinmedica sunscreen,357563778,skinmedica sunscreen,0,0,2
+139576218,Custom_In Stock Items,8240826378,Custom_In Stock Items_skinmedica_skinmedica sunscreen,552928955,skinmedica sunscreen,0,0,3
+139576218,Custom_In Stock Items,8240826378,Custom_In Stock Items_skinmedica_skinmedica sunscreen,552930515,skinmedica sunscreen,0,0,1
+139576218,Custom_In Stock Items,8240826498,Custom_In Stock Items_skinmedica_skinmedica tri-retinol complex,22148178400,skinmedica tri-retinol complex,0,0,0
+139576218,Custom_In Stock Items,8240826498,Custom_In Stock Items_skinmedica_skinmedica tri-retinol complex,24909356096,skinmedica tri-retinol complex,0,0,0
+139576218,Custom_In Stock Items,8240826498,Custom_In Stock Items_skinmedica_skinmedica tri-retinol complex,24910086416,skinmedica tri-retinol complex,0,0,0
+139576218,Custom_In Stock Items,8240826618,Custom_In Stock Items_skinmedica_skinmedica lip plump system,8476425379,skinmedica lip plump system,0,0,0
+139576218,Custom_In Stock Items,8240826618,Custom_In Stock Items_skinmedica_skinmedica lip plump system,38273584299,skinmedica lip plump system,0,0,0
+139576218,Custom_In Stock Items,8240826618,Custom_In Stock Items_skinmedica_skinmedica lip plump system,39638283220,skinmedica lip plump system,0,0,0
+139576218,Custom_In Stock Items,8240826738,Custom_In Stock Items_skinmedica_skinmedica recovery complex,583318652,skinmedica recovery complex,0,0,0
+139576218,Custom_In Stock Items,8240826738,Custom_In Stock Items_skinmedica_skinmedica recovery complex,1315921931,skinmedica recovery complex,0,0,0
+139576218,Custom_In Stock Items,8240826738,Custom_In Stock Items_skinmedica_skinmedica recovery complex,1383035771,skinmedica recovery complex,0,0,0
+139576218,Custom_In Stock Items,8240826858,Custom_In Stock Items_skinmedica_skinmedica restorative ointment,25479407425,skinmedica restorative ointment,0,0,0
+139576218,Custom_In Stock Items,8240826858,Custom_In Stock Items_skinmedica_skinmedica restorative ointment,37438300778,skinmedica restorative ointment,0,0,0
+139576218,Custom_In Stock Items,8240826858,Custom_In Stock Items_skinmedica_skinmedica restorative ointment,38167609180,skinmedica restorative ointment,0,0,0
+139576218,Custom_In Stock Items,8240826978,Custom_In Stock Items_skinmedica_skinmedica daily moisturizer,1683851422,skinmedica daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240826978,Custom_In Stock Items_skinmedica_skinmedica daily moisturizer,36178095214,skinmedica daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240826978,Custom_In Stock Items_skinmedica_skinmedica daily moisturizer,36178407934,skinmedica daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240827098,Custom_In Stock Items_skinmedica_skinmedica ultimate daily moisturizer,1683851122,skinmedica ultimate daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240827098,Custom_In Stock Items_skinmedica_skinmedica ultimate daily moisturizer,4550683103,skinmedica ultimate daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240827098,Custom_In Stock Items_skinmedica_skinmedica ultimate daily moisturizer,23547962992,skinmedica ultimate daily moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240827218,Custom_In Stock Items_skinmedica_skinmedica ceramide treatment cream,12023718520,skinmedica ceramide treatment cream,0,0,0
+139576218,Custom_In Stock Items,8240827218,Custom_In Stock Items_skinmedica_skinmedica ceramide treatment cream,34489784710,skinmedica ceramide treatment cream,0,0,0
+139576218,Custom_In Stock Items,8240827218,Custom_In Stock Items_skinmedica_skinmedica ceramide treatment cream,44273010352,skinmedica ceramide treatment cream,0,0,0
+139576218,Custom_In Stock Items,8240827338,Custom_In Stock Items_skinmedica_skinmedica ceramid cream,61764844578,skinmedica ceramid cream,0,0,0
+139576218,Custom_In Stock Items,8240827338,Custom_In Stock Items_skinmedica_skinmedica ceramid cream,61764850338,skinmedica ceramid cream,0,0,0
+139576218,Custom_In Stock Items,8240827338,Custom_In Stock Items_skinmedica_skinmedica ceramid cream,61764855978,skinmedica ceramid cream,0,0,0
+139576218,Custom_In Stock Items,8240827458,Custom_In Stock Items_skinmedica_skinmedica line refine,7416253084,skinmedica line refine,0,0,0
+139576218,Custom_In Stock Items,8240827458,Custom_In Stock Items_skinmedica_skinmedica line refine,10138640476,skinmedica line refine,0,0,2
+139576218,Custom_In Stock Items,8240827458,Custom_In Stock Items_skinmedica_skinmedica line refine,38167559380,skinmedica line refine,0,0,1
+139576218,Custom_In Stock Items,8240827578,Custom_In Stock Items_skinmedica_skinmedica redness relief,20867168189,skinmedica redness relief,0,0,0
+139576218,Custom_In Stock Items,8240827578,Custom_In Stock Items_skinmedica_skinmedica redness relief,22148178760,skinmedica redness relief,0,0,0
+139576218,Custom_In Stock Items,8240827578,Custom_In Stock Items_skinmedica_skinmedica redness relief,22996256429,skinmedica redness relief,0,0,9
+139576218,Custom_In Stock Items,8240827698,Custom_In Stock Items_skinmedica_skinmedica redness relief calmplex,20867072309,skinmedica redness relief calmplex,0,0,0
+139576218,Custom_In Stock Items,8240827698,Custom_In Stock Items_skinmedica_skinmedica redness relief calmplex,24910087016,skinmedica redness relief calmplex,0,0,0
+139576218,Custom_In Stock Items,8240827698,Custom_In Stock Items_skinmedica_skinmedica redness relief calmplex,25650313977,skinmedica redness relief calmplex,0,0,0
+139576218,Custom_In Stock Items,8240827818,Custom_In Stock Items_skinmedica_skinmedica acne system,3523857702,skinmedica acne system,0,0,3
+139576218,Custom_In Stock Items,8240827818,Custom_In Stock Items_skinmedica_skinmedica acne system,3809684976,skinmedica acne system,0,0,3
+139576218,Custom_In Stock Items,8240827818,Custom_In Stock Items_skinmedica_skinmedica acne system,5477742186,skinmedica acne system,0,0,2
+139576218,Custom_In Stock Items,8240827938,Custom_In Stock Items_skinmedica_skinmedica acne lotion,13071753249,skinmedica acne lotion,0,0,0
+139576218,Custom_In Stock Items,8240827938,Custom_In Stock Items_skinmedica_skinmedica acne lotion,36966141235,skinmedica acne lotion,0,0,0
+139576218,Custom_In Stock Items,8240827938,Custom_In Stock Items_skinmedica_skinmedica acne lotion,44244784072,skinmedica acne lotion,0,0,0
+139576218,Custom_In Stock Items,8240828058,Custom_In Stock Items_skinmedica_skinmedica acne treatment lotion,5248082720,skinmedica acne treatment lotion,0,0,0
+139576218,Custom_In Stock Items,8240828058,Custom_In Stock Items_skinmedica_skinmedica acne treatment lotion,10997421637,skinmedica acne treatment lotion,0,0,0
+139576218,Custom_In Stock Items,8240828058,Custom_In Stock Items_skinmedica_skinmedica acne treatment lotion,19532059716,skinmedica acne treatment lotion,0,0,0
+139576218,Custom_In Stock Items,8240828178,Custom_In Stock Items_skinmedica_skinmedica eye cream,874069601,skinmedica eye cream,0,0,4
+139576218,Custom_In Stock Items,8240828178,Custom_In Stock Items_skinmedica_skinmedica eye cream,2304366611,skinmedica eye cream,0,0,3
+139576218,Custom_In Stock Items,8240828178,Custom_In Stock Items_skinmedica_skinmedica eye cream,5145492249,skinmedica eye cream,0,0,1
+139576218,Custom_In Stock Items,8240828298,Custom_In Stock Items_skinmedica_skinmedica illuminating eye cream,1315922531,skinmedica illuminating eye cream,0,0,0
+139576218,Custom_In Stock Items,8240828298,Custom_In Stock Items_skinmedica_skinmedica illuminating eye cream,3495943725,skinmedica illuminating eye cream,0,0,0
+139576218,Custom_In Stock Items,8240828298,Custom_In Stock Items_skinmedica_skinmedica illuminating eye cream,15203075856,skinmedica illuminating eye cream,0,0,0
+139576218,Custom_In Stock Items,8240828418,Custom_In Stock Items_skinmedica_skinmedica aha bha cream,12023716990,skinmedica aha bha cream,0,0,7
+139576218,Custom_In Stock Items,8240828418,Custom_In Stock Items_skinmedica_skinmedica aha bha cream,38273661579,skinmedica aha bha cream,0,0,2
+139576218,Custom_In Stock Items,8240828418,Custom_In Stock Items_skinmedica_skinmedica aha bha cream,45552154774,skinmedica aha bha cream,0,0,2
+139576218,Custom_In Stock Items,8240828538,Custom_In Stock Items_skinmedica_skinmedica aha cream,3122013566,skinmedica aha cream,0,0,0
+139576218,Custom_In Stock Items,8240828538,Custom_In Stock Items_skinmedica_skinmedica aha cream,45552122374,skinmedica aha cream,0,0,0
+139576218,Custom_In Stock Items,8240828538,Custom_In Stock Items_skinmedica_skinmedica aha cream,45552153814,skinmedica aha cream,0,0,0
+139576218,Custom_In Stock Items,8240828658,Custom_In Stock Items_skinmedica_skinmedica bha cream,3128257466,skinmedica bha cream,0,0,1
+139576218,Custom_In Stock Items,8240828658,Custom_In Stock Items_skinmedica_skinmedica bha cream,61764850098,skinmedica bha cream,0,0,0
+139576218,Custom_In Stock Items,8240828658,Custom_In Stock Items_skinmedica_skinmedica bha cream,61764855738,skinmedica bha cream,0,0,0
+139576218,Custom_In Stock Items,8240828778,Custom_In Stock Items_skinmedica_skinmedica post-procedure system,61764844818,skinmedica post-procedure system,0,0,0
+139576218,Custom_In Stock Items,8240828778,Custom_In Stock Items_skinmedica_skinmedica post-procedure system,61764850698,skinmedica post-procedure system,0,0,0
+139576218,Custom_In Stock Items,8240828778,Custom_In Stock Items_skinmedica_skinmedica post-procedure system,61764856338,skinmedica post-procedure system,0,0,0
+139576218,Custom_In Stock Items,8240828898,Custom_In Stock Items_skinmedica_skinmedica facial cleanser,712218401,skinmedica facial cleanser,0,0,0
+139576218,Custom_In Stock Items,8240828898,Custom_In Stock Items_skinmedica_skinmedica facial cleanser,1621784861,skinmedica facial cleanser,0,0,0
+139576218,Custom_In Stock Items,8240828898,Custom_In Stock Items_skinmedica_skinmedica facial cleanser,1669481722,skinmedica facial cleanser,0,0,0
+139576218,Custom_In Stock Items,8240829018,Custom_In Stock Items_skinmedica_skinmedica purifying toner,18612757097,skinmedica purifying toner,0,0,0
+139576218,Custom_In Stock Items,8240829018,Custom_In Stock Items_skinmedica_skinmedica purifying toner,24910087496,skinmedica purifying toner,0,0,0
+139576218,Custom_In Stock Items,8240829018,Custom_In Stock Items_skinmedica_skinmedica purifying toner,29520806739,skinmedica purifying toner,0,0,0
+139576218,Custom_In Stock Items,8240829138,Custom_In Stock Items_skinmedica_skinmedica sheer moisturizer,3523858842,skinmedica sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829138,Custom_In Stock Items_skinmedica_skinmedica sheer moisturizer,11810785179,skinmedica sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829138,Custom_In Stock Items_skinmedica_skinmedica sheer moisturizer,44668993024,skinmedica sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829258,Custom_In Stock Items_skinmedica_skinmedica ultra sheer moisturizer,1669479082,skinmedica ultra sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829258,Custom_In Stock Items_skinmedica_skinmedica ultra sheer moisturizer,1669480522,skinmedica ultra sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829258,Custom_In Stock Items_skinmedica_skinmedica ultra sheer moisturizer,1669481962,skinmedica ultra sheer moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240829378,Custom_In Stock Items_skinmedica_skinmedica essential serum,10837960741,skinmedica essential serum,0,0,0
+139576218,Custom_In Stock Items,8240829378,Custom_In Stock Items_skinmedica_skinmedica essential serum,12023716180,skinmedica essential serum,0,0,1
+139576218,Custom_In Stock Items,8240829378,Custom_In Stock Items_skinmedica_skinmedica essential serum,13332889654,skinmedica essential serum,0,0,0
+139576218,Custom_In Stock Items,8240829498,Custom_In Stock Items_skinmedica_skinmedica skin brightening,61764845058,skinmedica skin brightening,0,0,0
+139576218,Custom_In Stock Items,8240829498,Custom_In Stock Items_skinmedica_skinmedica skin brightening,61764850938,skinmedica skin brightening,0,0,0
+139576218,Custom_In Stock Items,8240829498,Custom_In Stock Items_skinmedica_skinmedica skin brightening,61764856578,skinmedica skin brightening,0,0,0
+139576218,Custom_In Stock Items,8240829618,Custom_In Stock Items_skinmedica_skinmedica skin brightening complex,61764845178,skinmedica skin brightening complex,0,0,0
+139576218,Custom_In Stock Items,8240829618,Custom_In Stock Items_skinmedica_skinmedica skin brightening complex,61764851058,skinmedica skin brightening complex,0,0,0
+139576218,Custom_In Stock Items,8240829618,Custom_In Stock Items_skinmedica_skinmedica skin brightening complex,61764856698,skinmedica skin brightening complex,0,0,0
+139576218,Custom_In Stock Items,8240829738,Custom_In Stock Items_skinmedica_skinmedica skin brightening system,61764845298,skinmedica skin brightening system,0,0,0
+139576218,Custom_In Stock Items,8240829738,Custom_In Stock Items_skinmedica_skinmedica skin brightening system,61764851178,skinmedica skin brightening system,0,0,0
+139576218,Custom_In Stock Items,8240829738,Custom_In Stock Items_skinmedica_skinmedica skin brightening system,61764856818,skinmedica skin brightening system,0,0,0
+139576218,Custom_In Stock Items,8240829858,Custom_In Stock Items_skinmedica_skinmedica body lotion,981885859,skinmedica body lotion,0,0,3
+139576218,Custom_In Stock Items,8240829858,Custom_In Stock Items_skinmedica_skinmedica body lotion,33093078707,skinmedica body lotion,0,0,2
+139576218,Custom_In Stock Items,8240829858,Custom_In Stock Items_skinmedica_skinmedica body lotion,44254643152,skinmedica body lotion,0,0,2
+139576218,Custom_In Stock Items,8240829978,Custom_In Stock Items_skinmedica_skinmedica skin cleanser,3523858362,skinmedica skin cleanser,0,0,6
+139576218,Custom_In Stock Items,8240829978,Custom_In Stock Items_skinmedica_skinmedica skin cleanser,8441589113,skinmedica skin cleanser,0,0,0
+139576218,Custom_In Stock Items,8240829978,Custom_In Stock Items_skinmedica_skinmedica skin cleanser,8441592443,skinmedica skin cleanser,0,0,0
+139576218,Custom_In Stock Items,8240830098,Custom_In Stock Items_skinmedica_skinmedica sensitive skin cleanser,1669480282,skinmedica sensitive skin cleanser,0,0,0
+139576218,Custom_In Stock Items,8240830098,Custom_In Stock Items_skinmedica_skinmedica sensitive skin cleanser,1669481662,skinmedica sensitive skin cleanser,0,0,0
+139576218,Custom_In Stock Items,8240830098,Custom_In Stock Items_skinmedica_skinmedica sensitive skin cleanser,1669482862,skinmedica sensitive skin cleanser,0,0,0
+139576218,Custom_In Stock Items,8240830218,Custom_In Stock Items_skinmedica_skinmedica eye repair,7218011385,skinmedica eye repair,0,0,4
+139576218,Custom_In Stock Items,8240830218,Custom_In Stock Items_skinmedica_skinmedica eye repair,24322404149,skinmedica eye repair,0,0,9
+139576218,Custom_In Stock Items,8240830218,Custom_In Stock Items_skinmedica_skinmedica eye repair,24322741109,skinmedica eye repair,0,0,1
+139576218,Custom_In Stock Items,8240830338,Custom_In Stock Items_skinmedica_skinmedica physical defense,61764844698,skinmedica physical defense,0,0,0
+139576218,Custom_In Stock Items,8240830338,Custom_In Stock Items_skinmedica_skinmedica physical defense,61764850578,skinmedica physical defense,0,0,0
+139576218,Custom_In Stock Items,8240830338,Custom_In Stock Items_skinmedica_skinmedica physical defense,61764856218,skinmedica physical defense,0,0,0
+139576218,Custom_In Stock Items,8240830458,Custom_In Stock Items_skinmedica_skinmedica skin polisher,3523858242,skinmedica skin polisher,0,0,0
+139576218,Custom_In Stock Items,8240830458,Custom_In Stock Items_skinmedica_skinmedica skin polisher,4925177723,skinmedica skin polisher,0,0,3
+139576218,Custom_In Stock Items,8240830458,Custom_In Stock Items_skinmedica_skinmedica skin polisher,4925184863,skinmedica skin polisher,0,0,0
+139576218,Custom_In Stock Items,8240830578,Custom_In Stock Items_skinmedica_skinmedica vitamin c e complex,19925150314,skinmedica vitamin c e complex,0,0,0
+139576218,Custom_In Stock Items,8240830578,Custom_In Stock Items_skinmedica_skinmedica vitamin c e complex,20207198587,skinmedica vitamin c e complex,0,0,0
+139576218,Custom_In Stock Items,8240830578,Custom_In Stock Items_skinmedica_skinmedica vitamin c e complex,20207198707,skinmedica vitamin c e complex,0,0,0
+139576218,Custom_In Stock Items,8240830698,Custom_In Stock Items_skinmedica_skinmedica vitamin c complex,486987062,skinmedica vitamin c complex,0,0,2
+139576218,Custom_In Stock Items,8240830698,Custom_In Stock Items_skinmedica_skinmedica vitamin c complex,1669479682,skinmedica vitamin c complex,0,0,0
+139576218,Custom_In Stock Items,8240830698,Custom_In Stock Items_skinmedica_skinmedica vitamin c complex,1669481062,skinmedica vitamin c complex,0,0,0
+139576218,Custom_In Stock Items,8240830818,Custom_In Stock Items_skinmedica_skinmedica vitamin e complex,13275570610,skinmedica vitamin e complex,0,0,0
+139576218,Custom_In Stock Items,8240830818,Custom_In Stock Items_skinmedica_skinmedica vitamin e complex,61764851298,skinmedica vitamin e complex,0,0,0
+139576218,Custom_In Stock Items,8240830818,Custom_In Stock Items_skinmedica_skinmedica vitamin e complex,61764856938,skinmedica vitamin e complex,0,0,0
+139576218,Custom_In Stock Items,8240830938,Custom_In Stock Items_skinmedica_skinmedica scar recovery gel,37506586857,skinmedica scar recovery gel,0,0,0
+139576218,Custom_In Stock Items,8240830938,Custom_In Stock Items_skinmedica_skinmedica scar recovery gel,48425302654,skinmedica scar recovery gel,0,0,1
+139576218,Custom_In Stock Items,8240830938,Custom_In Stock Items_skinmedica_skinmedica scar recovery gel,48425550334,skinmedica scar recovery gel,0,0,0
+139576218,Custom_In Stock Items,8240831058,Custom_In Stock Items_skinmedica_skinmedica centelline gel,61764844458,skinmedica centelline gel,0,0,0
+139576218,Custom_In Stock Items,8240831058,Custom_In Stock Items_skinmedica_skinmedica centelline gel,61764850218,skinmedica centelline gel,0,0,0
+139576218,Custom_In Stock Items,8240831058,Custom_In Stock Items_skinmedica_skinmedica centelline gel,61764855858,skinmedica centelline gel,0,0,0
+139576218,Custom_In Stock Items,8240831178,Custom_In Stock Items_skinmedica_skinmedica hydrating complex,12023713210,skinmedica hydrating complex,0,0,0
+139576218,Custom_In Stock Items,8240831178,Custom_In Stock Items_skinmedica_skinmedica hydrating complex,13894076279,skinmedica hydrating complex,0,0,0
+139576218,Custom_In Stock Items,8240831178,Custom_In Stock Items_skinmedica_skinmedica hydrating complex,15203148936,skinmedica hydrating complex,0,0,0
+139576218,Custom_In Stock Items,8240831298,Custom_In Stock Items_skinmedica_skinmedica purifying foam,61764844938,skinmedica purifying foam,0,0,0
+139576218,Custom_In Stock Items,8240831298,Custom_In Stock Items_skinmedica_skinmedica purifying foam,61764850818,skinmedica purifying foam,0,0,0
+139576218,Custom_In Stock Items,8240831298,Custom_In Stock Items_skinmedica_skinmedica purifying foam,61764856458,skinmedica purifying foam,0,0,0
+139576218,Custom_In Stock Items,8240831418,Custom_In Stock Items_skinmedica_skinmedica foaming wash,8441331083,skinmedica foaming wash,0,0,0
+139576218,Custom_In Stock Items,8240831418,Custom_In Stock Items_skinmedica_skinmedica foaming wash,8441380223,skinmedica foaming wash,0,0,0
+139576218,Custom_In Stock Items,8240831418,Custom_In Stock Items_skinmedica_skinmedica foaming wash,8441864783,skinmedica foaming wash,0,0,0
+139576218,Custom_In Stock Items,8240831538,Custom_In Stock Items_skinmedica_skinmedica replenishing cream,15321869129,skinmedica replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831538,Custom_In Stock Items_skinmedica_skinmedica replenishing cream,45552094894,skinmedica replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831538,Custom_In Stock Items_skinmedica_skinmedica replenishing cream,45552152494,skinmedica replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831658,Custom_In Stock Items_skinmedica_skinmedica ceratopic cream,19895792662,skinmedica ceratopic cream,0,0,0
+139576218,Custom_In Stock Items,8240831658,Custom_In Stock Items_skinmedica_skinmedica ceratopic cream,61764850458,skinmedica ceratopic cream,0,0,0
+139576218,Custom_In Stock Items,8240831658,Custom_In Stock Items_skinmedica_skinmedica ceratopic cream,61764856098,skinmedica ceratopic cream,0,0,0
+139576218,Custom_In Stock Items,8240831778,Custom_In Stock Items_skinmedica_skinmedica ceratopic replenishing cream,19527679472,skinmedica ceratopic replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831778,Custom_In Stock Items_skinmedica_skinmedica ceratopic replenishing cream,24909355976,skinmedica ceratopic replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831778,Custom_In Stock Items_skinmedica_skinmedica ceratopic replenishing cream,24910087736,skinmedica ceratopic replenishing cream,0,0,0
+139576218,Custom_In Stock Items,8240831898,Custom_In Stock Items_skinmedica_skinmedica rejuvenative toner,1669480102,skinmedica rejuvenative toner,0,0,0
+139576218,Custom_In Stock Items,8240831898,Custom_In Stock Items_skinmedica_skinmedica rejuvenative toner,1669481482,skinmedica rejuvenative toner,0,0,0
+139576218,Custom_In Stock Items,8240831898,Custom_In Stock Items_skinmedica_skinmedica rejuvenative toner,1669482682,skinmedica rejuvenative toner,0,0,0
+139576218,Custom_In Stock Items,8240832018,Custom_In Stock Items_skinmedica_skinmedica eye serum,1315922171,skinmedica eye serum,0,0,2
+139576218,Custom_In Stock Items,8240832018,Custom_In Stock Items_skinmedica_skinmedica eye serum,19306010900,skinmedica eye serum,0,0,0
+139576218,Custom_In Stock Items,8240832018,Custom_In Stock Items_skinmedica_skinmedica eye serum,19306490780,skinmedica eye serum,0,0,0
+139576218,Custom_In Stock Items,8240832138,Custom_In Stock Items_skinmedica_skinmedica uplifting eye serum,486986762,skinmedica uplifting eye serum,0,0,0
+139576218,Custom_In Stock Items,8240832138,Custom_In Stock Items_skinmedica_skinmedica uplifting eye serum,1669479922,skinmedica uplifting eye serum,0,0,0
+139576218,Custom_In Stock Items,8240832138,Custom_In Stock Items_skinmedica_skinmedica uplifting eye serum,1669481302,skinmedica uplifting eye serum,0,0,0
+139576218,Custom_In Stock Items,8240832258,Custom_In Stock Items_skinmedica_skinmedica rejuvenative moisturizer,1669479502,skinmedica rejuvenative moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240832258,Custom_In Stock Items_skinmedica_skinmedica rejuvenative moisturizer,1669480882,skinmedica rejuvenative moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240832258,Custom_In Stock Items_skinmedica_skinmedica rejuvenative moisturizer,1669482202,skinmedica rejuvenative moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240832378,Custom_In Stock Items_skinmedica_skinmedica regeneration system,3048174542,skinmedica regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832378,Custom_In Stock Items_skinmedica_skinmedica regeneration system,42407944572,skinmedica regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832378,Custom_In Stock Items_skinmedica_skinmedica regeneration system,42625520101,skinmedica regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832498,Custom_In Stock Items_skinmedica_skinmedica tns regeneration system,283839937,skinmedica tns regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832498,Custom_In Stock Items_skinmedica_skinmedica tns regeneration system,7179209831,skinmedica tns regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832498,Custom_In Stock Items_skinmedica_skinmedica tns regeneration system,7179890411,skinmedica tns regeneration system,0,0,0
+139576218,Custom_In Stock Items,8240832618,Custom_In Stock Items_skinmedica_skinmedica dermal repair,268924224,skinmedica dermal repair,0,0,12
+139576218,Custom_In Stock Items,8240832618,Custom_In Stock Items_skinmedica_skinmedica dermal repair,390892163,skinmedica dermal repair,0,0,24
+139576218,Custom_In Stock Items,8240832618,Custom_In Stock Items_skinmedica_skinmedica dermal repair,468683029,skinmedica dermal repair,0,0,8
+139576218,Custom_In Stock Items,8240832738,Custom_In Stock Items_skinmedica_skinmedica dermal repair cream,486986852,skinmedica dermal repair cream,0,0,0
+139576218,Custom_In Stock Items,8240832738,Custom_In Stock Items_skinmedica_skinmedica dermal repair cream,5477739846,skinmedica dermal repair cream,0,0,0
+139576218,Custom_In Stock Items,8240832738,Custom_In Stock Items_skinmedica_skinmedica dermal repair cream,5477750346,skinmedica dermal repair cream,0,0,0
+139576218,Custom_In Stock Items,8240832858,Custom_In Stock Items_skinmedica_skinmedica dermal cream,6841656860,skinmedica dermal cream,0,0,15
+139576218,Custom_In Stock Items,8240832858,Custom_In Stock Items_skinmedica_skinmedica dermal cream,12713543812,skinmedica dermal cream,0,0,0
+139576218,Custom_In Stock Items,8240832858,Custom_In Stock Items_skinmedica_skinmedica dermal cream,12713555962,skinmedica dermal cream,0,0,0
+139576218,Custom_In Stock Items,8240832978,Custom_In Stock Items_obagi_obagi nu-derm tolereen,12364463,obagi nu-derm tolereen,0,0,0
+139576218,Custom_In Stock Items,8240832978,Custom_In Stock Items_obagi_obagi nu-derm tolereen,4925111303,obagi nu-derm tolereen,0,0,0
+139576218,Custom_In Stock Items,8240832978,Custom_In Stock Items_obagi_obagi nu-derm tolereen,4925122343,obagi nu-derm tolereen,0,0,0
+139576218,Custom_In Stock Items,8240833098,Custom_In Stock Items_obagi_obagi tolereen,12364113,obagi tolereen,0,0,0
+139576218,Custom_In Stock Items,8240833098,Custom_In Stock Items_obagi_obagi tolereen,215294096,obagi tolereen,0,0,0
+139576218,Custom_In Stock Items,8240833098,Custom_In Stock Items_obagi_obagi tolereen,215295276,obagi tolereen,0,0,0
+139576218,Custom_In Stock Items,8240833218,Custom_In Stock Items_obagi_obagi professional-c serum,4925105843,obagi professional-c serum,0,0,0
+139576218,Custom_In Stock Items,8240833218,Custom_In Stock Items_obagi_obagi professional-c serum,4925108183,obagi professional-c serum,0,0,0
+139576218,Custom_In Stock Items,8240833218,Custom_In Stock Items_obagi_obagi professional-c serum,6465153331,obagi professional-c serum,0,0,0
+139576218,Custom_In Stock Items,8240833338,Custom_In Stock Items_obagi_obagi serum,1315989911,obagi serum,0,0,0
+139576218,Custom_In Stock Items,8240833338,Custom_In Stock Items_obagi_obagi serum,1315990751,obagi serum,0,0,0
+139576218,Custom_In Stock Items,8240833338,Custom_In Stock Items_obagi_obagi serum,1582683748,obagi serum,0,0,0
+139576218,Custom_In Stock Items,8240833458,Custom_In Stock Items_obagi_obagi eye complete serum,61764843258,obagi eye complete serum,0,0,0
+139576218,Custom_In Stock Items,8240833458,Custom_In Stock Items_obagi_obagi eye complete serum,61764848538,obagi eye complete serum,0,0,0
+139576218,Custom_In Stock Items,8240833458,Custom_In Stock Items_obagi_obagi eye complete serum,61764854298,obagi eye complete serum,0,0,0
+139576218,Custom_In Stock Items,8240833578,Custom_In Stock Items_obagi_obagi elastiderm serum,34140357284,obagi elastiderm serum,0,0,0
+139576218,Custom_In Stock Items,8240833578,Custom_In Stock Items_obagi_obagi elastiderm serum,34165693484,obagi elastiderm serum,0,0,0
+139576218,Custom_In Stock Items,8240833578,Custom_In Stock Items_obagi_obagi elastiderm serum,34169461844,obagi elastiderm serum,0,0,0
+139576218,Custom_In Stock Items,8240833698,Custom_In Stock Items_obagi_obagi acne system,4425073691,obagi acne system,0,0,0
+139576218,Custom_In Stock Items,8240833698,Custom_In Stock Items_obagi_obagi acne system,4982491665,obagi acne system,0,0,0
+139576218,Custom_In Stock Items,8240833698,Custom_In Stock Items_obagi_obagi acne system,5065179140,obagi acne system,0,0,0
+139576218,Custom_In Stock Items,8240833818,Custom_In Stock Items_obagi_obagi acne therapeutic system,4035724800,obagi acne therapeutic system,0,0,0
+139576218,Custom_In Stock Items,8240833818,Custom_In Stock Items_obagi_obagi acne therapeutic system,4036032960,obagi acne therapeutic system,0,0,0
+139576218,Custom_In Stock Items,8240833818,Custom_In Stock Items_obagi_obagi acne therapeutic system,4036037220,obagi acne therapeutic system,0,0,0
+139576218,Custom_In Stock Items,8240833938,Custom_In Stock Items_obagi_obagi clenziderm system,4425073811,obagi clenziderm system,0,0,0
+139576218,Custom_In Stock Items,8240833938,Custom_In Stock Items_obagi_obagi clenziderm system,5425645247,obagi clenziderm system,0,0,0
+139576218,Custom_In Stock Items,8240833938,Custom_In Stock Items_obagi_obagi clenziderm system,5476243469,obagi clenziderm system,0,0,0
+139576218,Custom_In Stock Items,8240834058,Custom_In Stock Items_obagi_obagi balancing toner,34493195470,obagi balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834058,Custom_In Stock Items_obagi_obagi balancing toner,34566496644,obagi balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834058,Custom_In Stock Items_obagi_obagi balancing toner,37954485695,obagi balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834178,Custom_In Stock Items_obagi_obagi c-balancing toner,31882582415,obagi c-balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834178,Custom_In Stock Items_obagi_obagi c-balancing toner,42398303892,obagi c-balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834178,Custom_In Stock Items_obagi_obagi c-balancing toner,42608763301,obagi c-balancing toner,0,0,0
+139576218,Custom_In Stock Items,8240834298,Custom_In Stock Items_obagi_obagi cleansing gel,1315991591,obagi cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834298,Custom_In Stock Items_obagi_obagi cleansing gel,2740240714,obagi cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834298,Custom_In Stock Items_obagi_obagi cleansing gel,2765250086,obagi cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834418,Custom_In Stock Items_obagi_obagi c-cleansing gel,6244470045,obagi c-cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834418,Custom_In Stock Items_obagi_obagi c-cleansing gel,6499085603,obagi c-cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834418,Custom_In Stock Items_obagi_obagi c-cleansing gel,11860003720,obagi c-cleansing gel,0,0,0
+139576218,Custom_In Stock Items,8240834538,Custom_In Stock Items_obagi_obagi sunshield lotion,61764844338,obagi sunshield lotion,0,0,0
+139576218,Custom_In Stock Items,8240834538,Custom_In Stock Items_obagi_obagi sunshield lotion,61764849978,obagi sunshield lotion,0,0,0
+139576218,Custom_In Stock Items,8240834538,Custom_In Stock Items_obagi_obagi sunshield lotion,61764855618,obagi sunshield lotion,0,0,0
+139576218,Custom_In Stock Items,8240834658,Custom_In Stock Items_obagi_obagi broad spectrum lotion,61764843018,obagi broad spectrum lotion,0,0,0
+139576218,Custom_In Stock Items,8240834658,Custom_In Stock Items_obagi_obagi broad spectrum lotion,61764847938,obagi broad spectrum lotion,0,0,0
+139576218,Custom_In Stock Items,8240834658,Custom_In Stock Items_obagi_obagi broad spectrum lotion,61764853938,obagi broad spectrum lotion,0,0,0
+139576218,Custom_In Stock Items,8240834778,Custom_In Stock Items_obagi_obagi nu-derm toner,12364843,obagi nu-derm toner,0,0,0
+139576218,Custom_In Stock Items,8240834778,Custom_In Stock Items_obagi_obagi nu-derm toner,746521398,obagi nu-derm toner,0,0,0
+139576218,Custom_In Stock Items,8240834778,Custom_In Stock Items_obagi_obagi nu-derm toner,4081920523,obagi nu-derm toner,0,0,0
+139576218,Custom_In Stock Items,8240834898,Custom_In Stock Items_obagi_obagi nu-derm moisturizer,61764843498,obagi nu-derm moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240834898,Custom_In Stock Items_obagi_obagi nu-derm moisturizer,61764849018,obagi nu-derm moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240834898,Custom_In Stock Items_obagi_obagi nu-derm moisturizer,61764854658,obagi nu-derm moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240835018,Custom_In Stock Items_obagi_obagi day lotion,549199048,obagi day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835018,Custom_In Stock Items_obagi_obagi day lotion,1876031249,obagi day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835018,Custom_In Stock Items_obagi_obagi day lotion,8552354897,obagi day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835138,Custom_In Stock Items_obagi_obagi exfoliating day lotion,1315990391,obagi exfoliating day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835138,Custom_In Stock Items_obagi_obagi exfoliating day lotion,5727071727,obagi exfoliating day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835138,Custom_In Stock Items_obagi_obagi exfoliating day lotion,11851989130,obagi exfoliating day lotion,0,0,0
+139576218,Custom_In Stock Items,8240835258,Custom_In Stock Items_obagi_obagi exfoliating lotion,2330135164,obagi exfoliating lotion,0,0,0
+139576218,Custom_In Stock Items,8240835258,Custom_In Stock Items_obagi_obagi exfoliating lotion,6499019903,obagi exfoliating lotion,0,0,0
+139576218,Custom_In Stock Items,8240835258,Custom_In Stock Items_obagi_obagi exfoliating lotion,10519935693,obagi exfoliating lotion,0,0,0
+139576218,Custom_In Stock Items,8240835378,Custom_In Stock Items_obagi_obagi uv block,5193597320,obagi uv block,0,0,0
+139576218,Custom_In Stock Items,8240835378,Custom_In Stock Items_obagi_obagi uv block,10905459007,obagi uv block,0,0,0
+139576218,Custom_In Stock Items,8240835378,Custom_In Stock Items_obagi_obagi uv block,11852110360,obagi uv block,0,0,0
+139576218,Custom_In Stock Items,8240835498,Custom_In Stock Items_obagi_obagi nu-derm uv block,10462335366,obagi nu-derm uv block,0,0,0
+139576218,Custom_In Stock Items,8240835498,Custom_In Stock Items_obagi_obagi nu-derm uv block,11852110900,obagi nu-derm uv block,0,0,0
+139576218,Custom_In Stock Items,8240835498,Custom_In Stock Items_obagi_obagi nu-derm uv block,11860065370,obagi nu-derm uv block,0,0,0
+139576218,Custom_In Stock Items,8240835618,Custom_In Stock Items_obagi_obagi cleanser,15015783,obagi cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835618,Custom_In Stock Items_obagi_obagi cleanser,737517933,obagi cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835618,Custom_In Stock Items_obagi_obagi cleanser,737526543,obagi cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835738,Custom_In Stock Items_obagi_obagi gentle cleanser,12363943,obagi gentle cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835738,Custom_In Stock Items_obagi_obagi gentle cleanser,215293756,obagi gentle cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835738,Custom_In Stock Items_obagi_obagi gentle cleanser,215294956,obagi gentle cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835858,Custom_In Stock Items_obagi_obagi nu-derm cleanser,93804111,obagi nu-derm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835858,Custom_In Stock Items_obagi_obagi nu-derm cleanser,5414398663,obagi nu-derm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835858,Custom_In Stock Items_obagi_obagi nu-derm cleanser,6499020083,obagi nu-derm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240835978,Custom_In Stock Items_obagi_obagi daily care cream,10462480446,obagi daily care cream,0,0,0
+139576218,Custom_In Stock Items,8240835978,Custom_In Stock Items_obagi_obagi daily care cream,11851805530,obagi daily care cream,0,0,0
+139576218,Custom_In Stock Items,8240835978,Custom_In Stock Items_obagi_obagi daily care cream,11859775930,obagi daily care cream,0,0,0
+139576218,Custom_In Stock Items,8240836098,Custom_In Stock Items_obagi_obagi daily care cleanser,10462486566,obagi daily care cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836098,Custom_In Stock Items_obagi_obagi daily care cleanser,11851850170,obagi daily care cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836098,Custom_In Stock Items_obagi_obagi daily care cleanser,11859971410,obagi daily care cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836218,Custom_In Stock Items_obagi_obagi clenziderm cleanser,3348729315,obagi clenziderm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836218,Custom_In Stock Items_obagi_obagi clenziderm cleanser,10462479726,obagi clenziderm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836218,Custom_In Stock Items_obagi_obagi clenziderm cleanser,11468803954,obagi clenziderm cleanser,0,0,0
+139576218,Custom_In Stock Items,8240836338,Custom_In Stock Items_obagi_obagi clenziderm cream,18797628758,obagi clenziderm cream,0,0,0
+139576218,Custom_In Stock Items,8240836338,Custom_In Stock Items_obagi_obagi clenziderm cream,60731040535,obagi clenziderm cream,0,0,0
+139576218,Custom_In Stock Items,8240836338,Custom_In Stock Items_obagi_obagi clenziderm cream,61764848178,obagi clenziderm cream,0,0,0
+139576218,Custom_In Stock Items,8240836458,Custom_In Stock Items_obagi_obagi foaming gel,12364653,obagi foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836458,Custom_In Stock Items_obagi_obagi foaming gel,444135683,obagi foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836458,Custom_In Stock Items_obagi_obagi foaming gel,444135773,obagi foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836578,Custom_In Stock Items_obagi_obagi nu-derm foaming gel,12364553,obagi nu-derm foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836578,Custom_In Stock Items_obagi_obagi nu-derm foaming gel,746521158,obagi nu-derm foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836578,Custom_In Stock Items_obagi_obagi nu-derm foaming gel,2488695427,obagi nu-derm foaming gel,0,0,0
+139576218,Custom_In Stock Items,8240836698,Custom_In Stock Items_obagi_obagi nu-derm,38782980,obagi nu-derm,0,0,0
+139576218,Custom_In Stock Items,8240836698,Custom_In Stock Items_obagi_obagi nu-derm,215293716,obagi nu-derm,0,0,0
+139576218,Custom_In Stock Items,8240836698,Custom_In Stock Items_obagi_obagi nu-derm,215294916,obagi nu-derm,0,0,0
+139576218,Custom_In Stock Items,8240836818,Custom_In Stock Items_obagi_obagi eye cream,12364043,obagi eye cream,0,0,0
+139576218,Custom_In Stock Items,8240836818,Custom_In Stock Items_obagi_obagi eye cream,125416235,obagi eye cream,0,0,0
+139576218,Custom_In Stock Items,8240836818,Custom_In Stock Items_obagi_obagi eye cream,215294016,obagi eye cream,0,0,0
+139576218,Custom_In Stock Items,8240836938,Custom_In Stock Items_obagi_obagi nu-derm eye cream,12364693,obagi nu-derm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240836938,Custom_In Stock Items_obagi_obagi nu-derm eye cream,746520888,obagi nu-derm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240836938,Custom_In Stock Items_obagi_obagi nu-derm eye cream,4925093423,obagi nu-derm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240837058,Custom_In Stock Items_obagi_obagi overnight repair,61764843618,obagi overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837058,Custom_In Stock Items_obagi_obagi overnight repair,61764849138,obagi overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837058,Custom_In Stock Items_obagi_obagi overnight repair,61764854778,obagi overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837178,Custom_In Stock Items_obagi_obagi rejuvenation,61764843978,obagi rejuvenation,0,0,0
+139576218,Custom_In Stock Items,8240837178,Custom_In Stock Items_obagi_obagi rejuvenation,61764849498,obagi rejuvenation,0,0,0
+139576218,Custom_In Stock Items,8240837178,Custom_In Stock Items_obagi_obagi rejuvenation,61764855138,obagi rejuvenation,0,0,0
+139576218,Custom_In Stock Items,8240837298,Custom_In Stock Items_obagi_obagi regenica,56333389334,obagi regenica,0,0,0
+139576218,Custom_In Stock Items,8240837298,Custom_In Stock Items_obagi_obagi regenica,57879037137,obagi regenica,0,0,0
+139576218,Custom_In Stock Items,8240837298,Custom_In Stock Items_obagi_obagi regenica,58652420730,obagi regenica,0,0,0
+139576218,Custom_In Stock Items,8240837418,Custom_In Stock Items_obagi_obagi regenica overnight repair,61764843738,obagi regenica overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837418,Custom_In Stock Items_obagi_obagi regenica overnight repair,61764849258,obagi regenica overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837418,Custom_In Stock Items_obagi_obagi regenica overnight repair,61764854898,obagi regenica overnight repair,0,0,0
+139576218,Custom_In Stock Items,8240837538,Custom_In Stock Items_obagi_obagi rosaclear,11573399506,obagi rosaclear,0,0,0
+139576218,Custom_In Stock Items,8240837538,Custom_In Stock Items_obagi_obagi rosaclear,12892762452,obagi rosaclear,0,0,0
+139576218,Custom_In Stock Items,8240837538,Custom_In Stock Items_obagi_obagi rosaclear,12892764072,obagi rosaclear,0,0,0
+139576218,Custom_In Stock Items,8240837658,Custom_In Stock Items_obagi_obagi rosaclear cleanser,18387315261,obagi rosaclear cleanser,0,0,0
+139576218,Custom_In Stock Items,8240837658,Custom_In Stock Items_obagi_obagi rosaclear cleanser,25349729419,obagi rosaclear cleanser,0,0,0
+139576218,Custom_In Stock Items,8240837658,Custom_In Stock Items_obagi_obagi rosaclear cleanser,49851429833,obagi rosaclear cleanser,0,0,0
+139576218,Custom_In Stock Items,8240837778,Custom_In Stock Items_obagi_obagi eye gel,2068316602,obagi eye gel,0,0,0
+139576218,Custom_In Stock Items,8240837778,Custom_In Stock Items_obagi_obagi eye gel,3348804435,obagi eye gel,0,0,0
+139576218,Custom_In Stock Items,8240837778,Custom_In Stock Items_obagi_obagi eye gel,5191975760,obagi eye gel,0,0,0
+139576218,Custom_In Stock Items,8240837898,Custom_In Stock Items_obagi_obagi elastiderm gel,3348804495,obagi elastiderm gel,0,0,0
+139576218,Custom_In Stock Items,8240837898,Custom_In Stock Items_obagi_obagi elastiderm gel,5191971620,obagi elastiderm gel,0,0,0
+139576218,Custom_In Stock Items,8240837898,Custom_In Stock Items_obagi_obagi elastiderm gel,19470646474,obagi elastiderm gel,0,0,0
+139576218,Custom_In Stock Items,8240838018,Custom_In Stock Items_obagi_obagi facial rejuvenation complex,61764843378,obagi facial rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838018,Custom_In Stock Items_obagi_obagi facial rejuvenation complex,61764848778,obagi facial rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838018,Custom_In Stock Items_obagi_obagi facial rejuvenation complex,61764854538,obagi facial rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838138,Custom_In Stock Items_obagi_obagi rejuvenation complex,61764844098,obagi rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838138,Custom_In Stock Items_obagi_obagi rejuvenation complex,61764849618,obagi rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838138,Custom_In Stock Items_obagi_obagi rejuvenation complex,61764855258,obagi rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838258,Custom_In Stock Items_obagi_obagi regenica rejuvenation complex,61764843858,obagi regenica rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838258,Custom_In Stock Items_obagi_obagi regenica rejuvenation complex,61764849378,obagi regenica rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838258,Custom_In Stock Items_obagi_obagi regenica rejuvenation complex,61764855018,obagi regenica rejuvenation complex,0,0,0
+139576218,Custom_In Stock Items,8240838378,Custom_In Stock Items_obagi_obagi rosaclear complexion corrector,21690308912,obagi rosaclear complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838378,Custom_In Stock Items_obagi_obagi rosaclear complexion corrector,61764849858,obagi rosaclear complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838378,Custom_In Stock Items_obagi_obagi rosaclear complexion corrector,61764855498,obagi rosaclear complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838498,Custom_In Stock Items_obagi_obagi complexion corrector,11625630126,obagi complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838498,Custom_In Stock Items_obagi_obagi complexion corrector,42399845052,obagi complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838498,Custom_In Stock Items_obagi_obagi complexion corrector,42609553621,obagi complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838618,Custom_In Stock Items_obagi_obagi hydrating complexion corrector,11625630216,obagi hydrating complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838618,Custom_In Stock Items_obagi_obagi hydrating complexion corrector,42114414450,obagi hydrating complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838618,Custom_In Stock Items_obagi_obagi hydrating complexion corrector,61764848898,obagi hydrating complexion corrector,0,0,0
+139576218,Custom_In Stock Items,8240838738,Custom_In Stock Items_obagi_obagi elastiderm eye cream,3338914781,obagi elastiderm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240838738,Custom_In Stock Items_obagi_obagi elastiderm eye cream,3527282205,obagi elastiderm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240838738,Custom_In Stock Items_obagi_obagi elastiderm eye cream,4394323367,obagi elastiderm eye cream,0,0,0
+139576218,Custom_In Stock Items,8240838858,Custom_In Stock Items_obagi_obagi rosaclear system,11532261347,obagi rosaclear system,0,0,0
+139576218,Custom_In Stock Items,8240838858,Custom_In Stock Items_obagi_obagi rosaclear system,12197071512,obagi rosaclear system,0,0,0
+139576218,Custom_In Stock Items,8240838858,Custom_In Stock Items_obagi_obagi rosaclear system,12756183690,obagi rosaclear system,0,0,0
+139576218,Custom_In Stock Items,8240838978,Custom_In Stock Items_obagi_obagi therapeutic moisturizer,7107500745,obagi therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240838978,Custom_In Stock Items_obagi_obagi therapeutic moisturizer,7396581885,obagi therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240838978,Custom_In Stock Items_obagi_obagi therapeutic moisturizer,11851984900,obagi therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839098,Custom_In Stock Items_obagi_obagi clenziderm therapeutic moisturizer,10462636146,obagi clenziderm therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839098,Custom_In Stock Items_obagi_obagi clenziderm therapeutic moisturizer,11851984450,obagi clenziderm therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839098,Custom_In Stock Items_obagi_obagi clenziderm therapeutic moisturizer,11859964120,obagi clenziderm therapeutic moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839218,Custom_In Stock Items_obagi_obagi skin protection,1596890722,obagi skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839218,Custom_In Stock Items_obagi_obagi skin protection,2520720686,obagi skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839218,Custom_In Stock Items_obagi_obagi skin protection,6178497935,obagi skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839338,Custom_In Stock Items_obagi_obagi healthy skin protection,381745846,obagi healthy skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839338,Custom_In Stock Items_obagi_obagi healthy skin protection,2386154885,obagi healthy skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839338,Custom_In Stock Items_obagi_obagi healthy skin protection,2386159445,obagi healthy skin protection,0,0,0
+139576218,Custom_In Stock Items,8240839458,Custom_In Stock Items_obagi_obagi exfoderm forte,12365023,obagi exfoderm forte,0,0,0
+139576218,Custom_In Stock Items,8240839458,Custom_In Stock Items_obagi_obagi exfoderm forte,215294136,obagi exfoderm forte,0,0,0
+139576218,Custom_In Stock Items,8240839458,Custom_In Stock Items_obagi_obagi exfoderm forte,215295296,obagi exfoderm forte,0,0,0
+139576218,Custom_In Stock Items,8240839578,Custom_In Stock Items_obagi_obagi facial moisturizer,11463303475,obagi facial moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839578,Custom_In Stock Items_obagi_obagi facial moisturizer,61764848658,obagi facial moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839578,Custom_In Stock Items_obagi_obagi facial moisturizer,61764854418,obagi facial moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240839698,Custom_In Stock Items_obagi_obagi foaming cleanser,1580155708,obagi foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839698,Custom_In Stock Items_obagi_obagi foaming cleanser,1582683208,obagi foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839698,Custom_In Stock Items_obagi_obagi foaming cleanser,2488698067,obagi foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839818,Custom_In Stock Items_obagi_obagi daily foaming cleanser,22728532395,obagi daily foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839818,Custom_In Stock Items_obagi_obagi daily foaming cleanser,27733501755,obagi daily foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839818,Custom_In Stock Items_obagi_obagi daily foaming cleanser,61764848298,obagi daily foaming cleanser,0,0,0
+139576218,Custom_In Stock Items,8240839938,Custom_In Stock Items_obagi_obagi clenziderm acne system,9947581268,obagi clenziderm acne system,0,0,0
+139576218,Custom_In Stock Items,8240839938,Custom_In Stock Items_obagi_obagi clenziderm acne system,10537627105,obagi clenziderm acne system,0,0,0
+139576218,Custom_In Stock Items,8240839938,Custom_In Stock Items_obagi_obagi clenziderm acne system,11851847470,obagi clenziderm acne system,0,0,0
+139576218,Custom_In Stock Items,8240840058,Custom_In Stock Items_obagi_obagi wrinkle reducing lotion,12023712310,obagi wrinkle reducing lotion,0,0,0
+139576218,Custom_In Stock Items,8240840058,Custom_In Stock Items_obagi_obagi wrinkle reducing lotion,28300016349,obagi wrinkle reducing lotion,0,0,0
+139576218,Custom_In Stock Items,8240840058,Custom_In Stock Items_obagi_obagi wrinkle reducing lotion,33464735844,obagi wrinkle reducing lotion,0,0,0
+139576218,Custom_In Stock Items,8240840178,Custom_In Stock Items_obagi_obagi elastiderm wrinkle lotion,24737173942,obagi elastiderm wrinkle lotion,0,0,0
+139576218,Custom_In Stock Items,8240840178,Custom_In Stock Items_obagi_obagi elastiderm wrinkle lotion,61764848418,obagi elastiderm wrinkle lotion,0,0,0
+139576218,Custom_In Stock Items,8240840178,Custom_In Stock Items_obagi_obagi elastiderm wrinkle lotion,61764854178,obagi elastiderm wrinkle lotion,0,0,0
+139576218,Custom_In Stock Items,8240840298,Custom_In Stock Items_obagi_obagi skin balancing sun protection,36810982120,obagi skin balancing sun protection,0,0,0
+139576218,Custom_In Stock Items,8240840298,Custom_In Stock Items_obagi_obagi skin balancing sun protection,42413713092,obagi skin balancing sun protection,0,0,0
+139576218,Custom_In Stock Items,8240840298,Custom_In Stock Items_obagi_obagi skin balancing sun protection,42634790941,obagi skin balancing sun protection,0,0,0
+139576218,Custom_In Stock Items,8240840418,Custom_In Stock Items_obagi_obagi sunguard,1315990631,obagi sunguard,0,0,0
+139576218,Custom_In Stock Items,8240840418,Custom_In Stock Items_obagi_obagi sunguard,1582786468,obagi sunguard,0,0,0
+139576218,Custom_In Stock Items,8240840418,Custom_In Stock Items_obagi_obagi sunguard,3178507330,obagi sunguard,0,0,0
+139576218,Custom_In Stock Items,8240840538,Custom_In Stock Items_obagi_obagi rejuvenation day repair,61764844218,obagi rejuvenation day repair,0,0,0
+139576218,Custom_In Stock Items,8240840538,Custom_In Stock Items_obagi_obagi rejuvenation day repair,61764849738,obagi rejuvenation day repair,0,0,0
+139576218,Custom_In Stock Items,8240840538,Custom_In Stock Items_obagi_obagi rejuvenation day repair,61764855378,obagi rejuvenation day repair,0,0,0
+139576218,Custom_In Stock Items,8240840658,Custom_In Stock Items_obagi_obagi nu-derm exfoderm,12364513,obagi nu-derm exfoderm,0,0,0
+139576218,Custom_In Stock Items,8240840658,Custom_In Stock Items_obagi_obagi nu-derm exfoderm,3955352683,obagi nu-derm exfoderm,0,0,0
+139576218,Custom_In Stock Items,8240840658,Custom_In Stock Items_obagi_obagi nu-derm exfoderm,4081827283,obagi nu-derm exfoderm,0,0,0
+139576218,Custom_In Stock Items,8240840778,Custom_In Stock Items_obagi_obagi pore therapy,2064728296,obagi pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240840778,Custom_In Stock Items_obagi_obagi pore therapy,10696723949,obagi pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240840778,Custom_In Stock Items_obagi_obagi pore therapy,11660902415,obagi pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240840898,Custom_In Stock Items_obagi_obagi clenziderm pore therapy,4767207102,obagi clenziderm pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240840898,Custom_In Stock Items_obagi_obagi clenziderm pore therapy,11469055054,obagi clenziderm pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240840898,Custom_In Stock Items_obagi_obagi clenziderm pore therapy,11469095374,obagi clenziderm pore therapy,0,0,0
+139576218,Custom_In Stock Items,8240841018,Custom_In Stock Items_obagi_obagi therapeutic lotion,10462498446,obagi therapeutic lotion,0,0,0
+139576218,Custom_In Stock Items,8240841018,Custom_In Stock Items_obagi_obagi therapeutic lotion,11851822180,obagi therapeutic lotion,0,0,0
+139576218,Custom_In Stock Items,8240841018,Custom_In Stock Items_obagi_obagi therapeutic lotion,11859883030,obagi therapeutic lotion,0,0,0
+139576218,Custom_In Stock Items,8240841138,Custom_In Stock Items_obagi_obagi bpo lotion,61764842898,obagi bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841138,Custom_In Stock Items_obagi_obagi bpo lotion,61764847818,obagi bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841138,Custom_In Stock Items_obagi_obagi bpo lotion,61764853818,obagi bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841258,Custom_In Stock Items_obagi_obagi clenziderm bpo lotion,61764843138,obagi clenziderm bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841258,Custom_In Stock Items_obagi_obagi clenziderm bpo lotion,61764848058,obagi clenziderm bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841258,Custom_In Stock Items_obagi_obagi clenziderm bpo lotion,61764854058,obagi clenziderm bpo lotion,0,0,0
+139576218,Custom_In Stock Items,8240841378,Custom_In Stock Items_is clinical_is clinical acne travel kit,19660328019,is clinical acne travel kit,0,0,0
+139576218,Custom_In Stock Items,8240841378,Custom_In Stock Items_is clinical_is clinical acne travel kit,19660328259,is clinical acne travel kit,0,0,0
+139576218,Custom_In Stock Items,8240841378,Custom_In Stock Items_is clinical_is clinical acne travel kit,25324051435,is clinical acne travel kit,0,0,0
+139576218,Custom_In Stock Items,8240841498,Custom_In Stock Items_is clinical_is clinical acne kit,8210854010,is clinical acne kit,0,0,2
+139576218,Custom_In Stock Items,8240841498,Custom_In Stock Items_is clinical_is clinical acne kit,8549044237,is clinical acne kit,0,0,1
+139576218,Custom_In Stock Items,8240841498,Custom_In Stock Items_is clinical_is clinical acne kit,20941847125,is clinical acne kit,0,0,1
+139576218,Custom_In Stock Items,8240841618,Custom_In Stock Items_is clinical_is clinical body complex,2280789731,is clinical body complex,0,0,3
+139576218,Custom_In Stock Items,8240841618,Custom_In Stock Items_is clinical_is clinical body complex,8568656137,is clinical body complex,0,0,0
+139576218,Custom_In Stock Items,8240841618,Custom_In Stock Items_is clinical_is clinical body complex,19307930780,is clinical body complex,0,0,0
+139576218,Custom_In Stock Items,8240841738,Custom_In Stock Items_is clinical_is clinical age treatment,61764841338,is clinical age treatment,0,0,0
+139576218,Custom_In Stock Items,8240841738,Custom_In Stock Items_is clinical_is clinical age treatment,61764845778,is clinical age treatment,0,0,0
+139576218,Custom_In Stock Items,8240841738,Custom_In Stock Items_is clinical_is clinical age treatment,61764851778,is clinical age treatment,0,0,0
+139576218,Custom_In Stock Items,8240841858,Custom_In Stock Items_is clinical_is clinical age treatement,61764841218,is clinical age treatement,0,0,0
+139576218,Custom_In Stock Items,8240841858,Custom_In Stock Items_is clinical_is clinical age treatement,61764845658,is clinical age treatement,0,0,0
+139576218,Custom_In Stock Items,8240841858,Custom_In Stock Items_is clinical_is clinical age treatement,61764851658,is clinical age treatement,0,0,0
+139576218,Custom_In Stock Items,8240841978,Custom_In Stock Items_is clinical_is clinical age treatment complex,47754967158,is clinical age treatment complex,0,0,0
+139576218,Custom_In Stock Items,8240841978,Custom_In Stock Items_is clinical_is clinical age treatment complex,61764845898,is clinical age treatment complex,0,0,0
+139576218,Custom_In Stock Items,8240841978,Custom_In Stock Items_is clinical_is clinical age treatment complex,61764851898,is clinical age treatment complex,0,0,0
+139576218,Custom_In Stock Items,8240842098,Custom_In Stock Items_is clinical_is clinical hyperpigmentation kit,8210850410,is clinical hyperpigmentation kit,0,0,0
+139576218,Custom_In Stock Items,8240842098,Custom_In Stock Items_is clinical_is clinical hyperpigmentation kit,26344131534,is clinical hyperpigmentation kit,0,0,0
+139576218,Custom_In Stock Items,8240842098,Custom_In Stock Items_is clinical_is clinical hyperpigmentation kit,29847710363,is clinical hyperpigmentation kit,0,0,0
+139576218,Custom_In Stock Items,8240842218,Custom_In Stock Items_is clinical_is clinical eye complex,1605529541,is clinical eye complex,0,0,0
+139576218,Custom_In Stock Items,8240842218,Custom_In Stock Items_is clinical_is clinical eye complex,1832924613,is clinical eye complex,0,0,32
+139576218,Custom_In Stock Items,8240842218,Custom_In Stock Items_is clinical_is clinical eye complex,6915951020,is clinical eye complex,0,0,0
+139576218,Custom_In Stock Items,8240842338,Custom_In Stock Items_is clinical_is clinical youth eye complex,15186159634,is clinical youth eye complex,0,0,0
+139576218,Custom_In Stock Items,8240842338,Custom_In Stock Items_is clinical_is clinical youth eye complex,21210849914,is clinical youth eye complex,0,0,0
+139576218,Custom_In Stock Items,8240842338,Custom_In Stock Items_is clinical_is clinical youth eye complex,22570687043,is clinical youth eye complex,0,0,0
+139576218,Custom_In Stock Items,8240842458,Custom_In Stock Items_is clinical_is clinical exfoliating treatment,61764842058,is clinical exfoliating treatment,0,0,0
+139576218,Custom_In Stock Items,8240842458,Custom_In Stock Items_is clinical_is clinical exfoliating treatment,61764846978,is clinical exfoliating treatment,0,0,0
+139576218,Custom_In Stock Items,8240842458,Custom_In Stock Items_is clinical_is clinical exfoliating treatment,61764852978,is clinical exfoliating treatment,0,0,0
+139576218,Custom_In Stock Items,8240842578,Custom_In Stock Items_is clinical_is clinical exfoliating enzyme treatment,61764841938,is clinical exfoliating enzyme treatment,0,0,0
+139576218,Custom_In Stock Items,8240842578,Custom_In Stock Items_is clinical_is clinical exfoliating enzyme treatment,61764846858,is clinical exfoliating enzyme treatment,0,0,0
+139576218,Custom_In Stock Items,8240842578,Custom_In Stock Items_is clinical_is clinical exfoliating enzyme treatment,61764852858,is clinical exfoliating enzyme treatment,0,0,0
+139576218,Custom_In Stock Items,8240842698,Custom_In Stock Items_is clinical_is clinical acne box kit,61764841098,is clinical acne box kit,0,0,0
+139576218,Custom_In Stock Items,8240842698,Custom_In Stock Items_is clinical_is clinical acne box kit,61764845418,is clinical acne box kit,0,0,0
+139576218,Custom_In Stock Items,8240842698,Custom_In Stock Items_is clinical_is clinical acne box kit,61764851418,is clinical acne box kit,0,0,0
+139576218,Custom_In Stock Items,8240842818,Custom_In Stock Items_is clinical_is clinical box kit,61764841578,is clinical box kit,0,0,0
+139576218,Custom_In Stock Items,8240842818,Custom_In Stock Items_is clinical_is clinical box kit,61764846138,is clinical box kit,0,0,0
+139576218,Custom_In Stock Items,8240842818,Custom_In Stock Items_is clinical_is clinical box kit,61764852138,is clinical box kit,0,0,0
+139576218,Custom_In Stock Items,8240842938,Custom_In Stock Items_is clinical_is clinical super serum advance+,10744228666,is clinical super serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240842938,Custom_In Stock Items_is clinical_is clinical super serum advance+,11956586834,is clinical super serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240842938,Custom_In Stock Items_is clinical_is clinical super serum advance+,12621032580,is clinical super serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240843058,Custom_In Stock Items_is clinical_is clinical advance+,6796262484,is clinical advance+,0,0,0
+139576218,Custom_In Stock Items,8240843058,Custom_In Stock Items_is clinical_is clinical advance+,61764845538,is clinical advance+,0,0,0
+139576218,Custom_In Stock Items,8240843058,Custom_In Stock Items_is clinical_is clinical advance+,61764851538,is clinical advance+,0,0,0
+139576218,Custom_In Stock Items,8240843178,Custom_In Stock Items_is clinical_is clinical c-15 serum advance+,27542522808,is clinical c-15 serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240843178,Custom_In Stock Items_is clinical_is clinical c-15 serum advance+,61764846618,is clinical c-15 serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240843178,Custom_In Stock Items_is clinical_is clinical c-15 serum advance+,61764852618,is clinical c-15 serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240843298,Custom_In Stock Items_is clinical_is clinical cleansing complex,1832919903,is clinical cleansing complex,0,0,1
+139576218,Custom_In Stock Items,8240843298,Custom_In Stock Items_is clinical_is clinical cleansing complex,1990443543,is clinical cleansing complex,0,0,3
+139576218,Custom_In Stock Items,8240843298,Custom_In Stock Items_is clinical_is clinical cleansing complex,6915951800,is clinical cleansing complex,0,0,0
+139576218,Custom_In Stock Items,8240843418,Custom_In Stock Items_is clinical_is clinical anti-aging travel kit,24910289456,is clinical anti-aging travel kit,0,0,1
+139576218,Custom_In Stock Items,8240843418,Custom_In Stock Items_is clinical_is clinical anti-aging travel kit,24910487096,is clinical anti-aging travel kit,0,0,0
+139576218,Custom_In Stock Items,8240843418,Custom_In Stock Items_is clinical_is clinical anti-aging travel kit,24910570136,is clinical anti-aging travel kit,0,0,0
+139576218,Custom_In Stock Items,8240843538,Custom_In Stock Items_is clinical_is clinical active serum,1458259295,is clinical active serum,0,0,15
+139576218,Custom_In Stock Items,8240843538,Custom_In Stock Items_is clinical_is clinical active serum,1558903768,is clinical active serum,0,0,33
+139576218,Custom_In Stock Items,8240843538,Custom_In Stock Items_is clinical_is clinical active serum,4368474872,is clinical active serum,0,0,39
+139576218,Custom_In Stock Items,8240843658,Custom_In Stock Items_is clinical_is clinical white lightening system,61764842778,is clinical white lightening system,0,0,0
+139576218,Custom_In Stock Items,8240843658,Custom_In Stock Items_is clinical_is clinical white lightening system,61764847698,is clinical white lightening system,0,0,0
+139576218,Custom_In Stock Items,8240843658,Custom_In Stock Items_is clinical_is clinical white lightening system,61764853698,is clinical white lightening system,0,0,0
+139576218,Custom_In Stock Items,8240843778,Custom_In Stock Items_is clinical_is clinical youth complex,3691859105,is clinical youth complex,0,0,24
+139576218,Custom_In Stock Items,8240843778,Custom_In Stock Items_is clinical_is clinical youth complex,4369175072,is clinical youth complex,0,0,12
+139576218,Custom_In Stock Items,8240843778,Custom_In Stock Items_is clinical_is clinical youth complex,4622323704,is clinical youth complex,0,0,23
+139576218,Custom_In Stock Items,8240843898,Custom_In Stock Items_is clinical_is clinical daily cleanser,61764841818,is clinical daily cleanser,0,0,0
+139576218,Custom_In Stock Items,8240843898,Custom_In Stock Items_is clinical_is clinical daily cleanser,61764846738,is clinical daily cleanser,0,0,0
+139576218,Custom_In Stock Items,8240843898,Custom_In Stock Items_is clinical_is clinical daily cleanser,61764852738,is clinical daily cleanser,0,0,0
+139576218,Custom_In Stock Items,8240844018,Custom_In Stock Items_is clinical_is clinical powder sunscreen,6838251441,is clinical powder sunscreen,0,0,0
+139576218,Custom_In Stock Items,8240844018,Custom_In Stock Items_is clinical_is clinical powder sunscreen,10137798076,is clinical powder sunscreen,0,0,0
+139576218,Custom_In Stock Items,8240844018,Custom_In Stock Items_is clinical_is clinical powder sunscreen,19308123740,is clinical powder sunscreen,0,0,0
+139576218,Custom_In Stock Items,8240844138,Custom_In Stock Items_is clinical_is clinical rosacea kit,8210853110,is clinical rosacea kit,0,0,1
+139576218,Custom_In Stock Items,8240844138,Custom_In Stock Items_is clinical_is clinical rosacea kit,29847500963,is clinical rosacea kit,0,0,0
+139576218,Custom_In Stock Items,8240844138,Custom_In Stock Items_is clinical_is clinical rosacea kit,29847940043,is clinical rosacea kit,0,0,2
+139576218,Custom_In Stock Items,8240844258,Custom_In Stock Items_is clinical_is clinical rosacea box kit,61764842538,is clinical rosacea box kit,0,0,0
+139576218,Custom_In Stock Items,8240844258,Custom_In Stock Items_is clinical_is clinical rosacea box kit,61764847458,is clinical rosacea box kit,0,0,0
+139576218,Custom_In Stock Items,8240844258,Custom_In Stock Items_is clinical_is clinical rosacea box kit,61764853458,is clinical rosacea box kit,0,0,0
+139576218,Custom_In Stock Items,8240844378,Custom_In Stock Items_is clinical_is clinical c and e serum,20022181702,is clinical c and e serum,0,0,0
+139576218,Custom_In Stock Items,8240844378,Custom_In Stock Items_is clinical_is clinical c and e serum,61764846258,is clinical c and e serum,0,0,0
+139576218,Custom_In Stock Items,8240844378,Custom_In Stock Items_is clinical_is clinical c and e serum,61764852258,is clinical c and e serum,0,0,0
+139576218,Custom_In Stock Items,8240844498,Custom_In Stock Items_is clinical_is clinical c and e serum advance+,61764841698,is clinical c and e serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844498,Custom_In Stock Items_is clinical_is clinical c and e serum advance+,61764846378,is clinical c and e serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844498,Custom_In Stock Items_is clinical_is clinical c and e serum advance+,61764852378,is clinical c and e serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844618,Custom_In Stock Items_is clinical_is clinical pro-heal serum advance+,12071134173,is clinical pro-heal serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844618,Custom_In Stock Items_is clinical_is clinical pro-heal serum advance+,12729473380,is clinical pro-heal serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844618,Custom_In Stock Items_is clinical_is clinical pro-heal serum advance+,55683122062,is clinical pro-heal serum advance+,0,0,0
+139576218,Custom_In Stock Items,8240844738,Custom_In Stock Items_is clinical_is clinical pro-heal serum,3185449360,is clinical pro-heal serum,0,0,0
+139576218,Custom_In Stock Items,8240844738,Custom_In Stock Items_is clinical_is clinical pro-heal serum,4419698743,is clinical pro-heal serum,0,0,0
+139576218,Custom_In Stock Items,8240844738,Custom_In Stock Items_is clinical_is clinical pro-heal serum,13637609320,is clinical pro-heal serum,0,0,0
+139576218,Custom_In Stock Items,8240844858,Custom_In Stock Items_is clinical_is clinical firming complex,1832922963,is clinical firming complex,0,0,0
+139576218,Custom_In Stock Items,8240844858,Custom_In Stock Items_is clinical_is clinical firming complex,1990447113,is clinical firming complex,0,0,1
+139576218,Custom_In Stock Items,8240844858,Custom_In Stock Items_is clinical_is clinical firming complex,11288708117,is clinical firming complex,0,0,0
+139576218,Custom_In Stock Items,8240844978,Custom_In Stock Items_is clinical_is clinical protective moisturizer,61764842298,is clinical protective moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240844978,Custom_In Stock Items_is clinical_is clinical protective moisturizer,61764847218,is clinical protective moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240844978,Custom_In Stock Items_is clinical_is clinical protective moisturizer,61764853218,is clinical protective moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240845098,Custom_In Stock Items_is clinical_is clinical smoothing gel,61764842658,is clinical smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845098,Custom_In Stock Items_is clinical_is clinical smoothing gel,61764847578,is clinical smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845098,Custom_In Stock Items_is clinical_is clinical smoothing gel,61764853578,is clinical smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845218,Custom_In Stock Items_is clinical_is clinical instant smoothing gel,61764842178,is clinical instant smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845218,Custom_In Stock Items_is clinical_is clinical instant smoothing gel,61764847098,is clinical instant smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845218,Custom_In Stock Items_is clinical_is clinical instant smoothing gel,61764853098,is clinical instant smoothing gel,0,0,0
+139576218,Custom_In Stock Items,8240845338,Custom_In Stock Items_is clinical_is clinical c eye advance+,10744228486,is clinical c eye advance+,0,0,0
+139576218,Custom_In Stock Items,8240845338,Custom_In Stock Items_is clinical_is clinical c eye advance+,61764846498,is clinical c eye advance+,0,0,0
+139576218,Custom_In Stock Items,8240845338,Custom_In Stock Items_is clinical_is clinical c eye advance+,61764852498,is clinical c eye advance+,0,0,0
+139576218,Custom_In Stock Items,8240845458,Custom_In Stock Items_is clinical_is clinical poly-vitamin serum,2280741971,is clinical poly-vitamin serum,0,0,0
+139576218,Custom_In Stock Items,8240845458,Custom_In Stock Items_is clinical_is clinical poly-vitamin serum,15344632570,is clinical poly-vitamin serum,0,0,0
+139576218,Custom_In Stock Items,8240845458,Custom_In Stock Items_is clinical_is clinical poly-vitamin serum,39311911942,is clinical poly-vitamin serum,0,0,0
+139576218,Custom_In Stock Items,8240845578,Custom_In Stock Items_is clinical_is clinical moisturizing complex,5192624900,is clinical moisturizing complex,0,0,0
+139576218,Custom_In Stock Items,8240845578,Custom_In Stock Items_is clinical_is clinical moisturizing complex,6987482139,is clinical moisturizing complex,0,0,0
+139576218,Custom_In Stock Items,8240845578,Custom_In Stock Items_is clinical_is clinical moisturizing complex,6987614979,is clinical moisturizing complex,0,0,0
+139576218,Custom_In Stock Items,8240845698,Custom_In Stock Items_is clinical_is clinical cream cleanser,24910286336,is clinical cream cleanser,0,0,0
+139576218,Custom_In Stock Items,8240845698,Custom_In Stock Items_is clinical_is clinical cream cleanser,24910486376,is clinical cream cleanser,0,0,0
+139576218,Custom_In Stock Items,8240845698,Custom_In Stock Items_is clinical_is clinical cream cleanser,24910568576,is clinical cream cleanser,0,0,0
+139576218,Custom_In Stock Items,8240845818,Custom_In Stock Items_is clinical_is clinical white lightening complex,20473653414,is clinical white lightening complex,0,0,0
+139576218,Custom_In Stock Items,8240845818,Custom_In Stock Items_is clinical_is clinical white lightening complex,26026784723,is clinical white lightening complex,0,0,0
+139576218,Custom_In Stock Items,8240845818,Custom_In Stock Items_is clinical_is clinical white lightening complex,26026830923,is clinical white lightening complex,0,0,0
+139576218,Custom_In Stock Items,8240845938,Custom_In Stock Items_is clinical_is clinical anti-aging box kit,61764841458,is clinical anti-aging box kit,0,0,0
+139576218,Custom_In Stock Items,8240845938,Custom_In Stock Items_is clinical_is clinical anti-aging box kit,61764846018,is clinical anti-aging box kit,0,0,0
+139576218,Custom_In Stock Items,8240845938,Custom_In Stock Items_is clinical_is clinical anti-aging box kit,61764852018,is clinical anti-aging box kit,0,0,0
+139576218,Custom_In Stock Items,8240846058,Custom_In Stock Items_is clinical_is clinical restorative eye copmlex,61764842418,is clinical restorative eye copmlex,0,0,0
+139576218,Custom_In Stock Items,8240846058,Custom_In Stock Items_is clinical_is clinical restorative eye copmlex,61764847338,is clinical restorative eye copmlex,0,0,0
+139576218,Custom_In Stock Items,8240846058,Custom_In Stock Items_is clinical_is clinical restorative eye copmlex,61764853338,is clinical restorative eye copmlex,0,0,0
+139576218,Custom_In Stock Items,8240846178,Custom_In Stock Items_is clinical_is clinical rosacea travel kit,24910570256,is clinical rosacea travel kit,0,0,0
+139576218,Custom_In Stock Items,8240846178,Custom_In Stock Items_is clinical_is clinical rosacea travel kit,25103206915,is clinical rosacea travel kit,0,0,0
+139576218,Custom_In Stock Items,8240846178,Custom_In Stock Items_is clinical_is clinical rosacea travel kit,25323234955,is clinical rosacea travel kit,0,0,0
+139576218,Custom_In Stock Items,8240846298,Custom_In Stock Items_is clinical_is clinical hydra-cool serum,2280865571,is clinical hydra-cool serum,0,0,0
+139576218,Custom_In Stock Items,8240846298,Custom_In Stock Items_is clinical_is clinical hydra-cool serum,12629221111,is clinical hydra-cool serum,0,0,0
+139576218,Custom_In Stock Items,8240846298,Custom_In Stock Items_is clinical_is clinical hydra-cool serum,13606752820,is clinical hydra-cool serum,0,0,0
+139576218,Custom_In Stock Items,8240846418,Custom_In Stock Items_is clinical_is clinical box kit for men,61764589938,is clinical box kit for men,0,0,0
+139576218,Custom_In Stock Items,8240846418,Custom_In Stock Items_is clinical_is clinical box kit for men,61764591378,is clinical box kit for men,0,0,0
+139576218,Custom_In Stock Items,8240846418,Custom_In Stock Items_is clinical_is clinical box kit for men,61764592818,is clinical box kit for men,0,0,0
+139576218,Custom_In Stock Items,8240846538,Custom_In Stock Items_bare love_bare love face,61764589218,bare love face,0,0,13
+139576218,Custom_In Stock Items,8240846538,Custom_In Stock Items_bare love_bare love face,61764590418,bare love face,0,0,0
+139576218,Custom_In Stock Items,8240846538,Custom_In Stock Items_bare love_bare love face,61764591858,bare love face,0,0,0
+139576218,Custom_In Stock Items,8240846658,Custom_In Stock Items_bare love_bare love body,61764588978,bare love body,0,0,39
+139576218,Custom_In Stock Items,8240846658,Custom_In Stock Items_bare love_bare love body,61764590178,bare love body,0,0,0
+139576218,Custom_In Stock Items,8240846658,Custom_In Stock Items_bare love_bare love body,61764591618,bare love body,0,0,0
+139576218,Custom_In Stock Items,8240846778,Custom_In Stock Items_bare love_bare love hair,61764589338,bare love hair,0,0,0
+139576218,Custom_In Stock Items,8240846778,Custom_In Stock Items_bare love_bare love hair,61764590538,bare love hair,0,0,0
+139576218,Custom_In Stock Items,8240846778,Custom_In Stock Items_bare love_bare love hair,61764591978,bare love hair,0,0,0
+139576218,Custom_In Stock Items,8240846898,Custom_In Stock Items_bare love_bare love anti-aging oil,61764588858,bare love anti-aging oil,0,0,0
+139576218,Custom_In Stock Items,8240846898,Custom_In Stock Items_bare love_bare love anti-aging oil,61764590058,bare love anti-aging oil,0,0,0
+139576218,Custom_In Stock Items,8240846898,Custom_In Stock Items_bare love_bare love anti-aging oil,61764591498,bare love anti-aging oil,0,0,0
+139576218,Custom_In Stock Items,8240847018,Custom_In Stock Items_bare love_bare love luxury hair fuel,61764589578,bare love luxury hair fuel,0,0,0
+139576218,Custom_In Stock Items,8240847018,Custom_In Stock Items_bare love_bare love luxury hair fuel,61764590778,bare love luxury hair fuel,0,0,0
+139576218,Custom_In Stock Items,8240847018,Custom_In Stock Items_bare love_bare love luxury hair fuel,61764592218,bare love luxury hair fuel,0,0,0
+139576218,Custom_In Stock Items,8240847138,Custom_In Stock Items_bare love_bare love hair treatment,61764589458,bare love hair treatment,0,0,0
+139576218,Custom_In Stock Items,8240847138,Custom_In Stock Items_bare love_bare love hair treatment,61764590658,bare love hair treatment,0,0,0
+139576218,Custom_In Stock Items,8240847138,Custom_In Stock Items_bare love_bare love hair treatment,61764592098,bare love hair treatment,0,0,0
+139576218,Custom_In Stock Items,8240847258,Custom_In Stock Items_bare love_bare love scalp treatment,61764589818,bare love scalp treatment,0,0,0
+139576218,Custom_In Stock Items,8240847258,Custom_In Stock Items_bare love_bare love scalp treatment,61764591018,bare love scalp treatment,0,0,0
+139576218,Custom_In Stock Items,8240847258,Custom_In Stock Items_bare love_bare love scalp treatment,61764592458,bare love scalp treatment,0,0,0
+139576218,Custom_In Stock Items,8240847378,Custom_In Stock Items_bare love_bare love moisturizer,61764589698,bare love moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847378,Custom_In Stock Items_bare love_bare love moisturizer,61764590898,bare love moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847378,Custom_In Stock Items_bare love_bare love moisturizer,61764592338,bare love moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847498,Custom_In Stock Items_bare love_bare love body moisturizer,61764589098,bare love body moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847498,Custom_In Stock Items_bare love_bare love body moisturizer,61764590298,bare love body moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847498,Custom_In Stock Items_bare love_bare love body moisturizer,61764591738,bare love body moisturizer,0,0,0
+139576218,Custom_In Stock Items,8240847618,Custom_In Stock Items_glamglow_glamglow mud mask,22561271936,glamglow mud mask,1,550000,524
+139576218,Custom_In Stock Items,8240847618,Custom_In Stock Items_glamglow_glamglow mud mask,23104495496,glamglow mud mask,0,0,42
+139576218,Custom_In Stock Items,8240847618,Custom_In Stock Items_glamglow_glamglow mud mask,26880830592,glamglow mud mask,0,0,31
+139576218,Custom_In Stock Items,8240847738,Custom_In Stock Items_glamglow_glamglow mud clearing treatment,49751026568,glamglow mud clearing treatment,0,0,0
+139576218,Custom_In Stock Items,8240847738,Custom_In Stock Items_glamglow_glamglow mud clearing treatment,61764591138,glamglow mud clearing treatment,0,0,0
+139576218,Custom_In Stock Items,8240847738,Custom_In Stock Items_glamglow_glamglow mud clearing treatment,61764592578,glamglow mud clearing treatment,0,0,0
+139576218,Custom_In Stock Items,8240847858,Custom_In Stock Items_glamglow_glamglow super mud clearing treatment,48071309604,glamglow super mud clearing treatment,0,0,0
+139576218,Custom_In Stock Items,8240847858,Custom_In Stock Items_glamglow_glamglow super mud clearing treatment,49122367271,glamglow super mud clearing treatment,0,0,7
+139576218,Custom_In Stock Items,8240847858,Custom_In Stock Items_glamglow_glamglow super mud clearing treatment,49153908431,glamglow super mud clearing treatment,0,0,0
+139576218,Custom_In Stock Items,8240847978,Custom_In Stock Items_glamglow_glamglow mud treatment,49751026688,glamglow mud treatment,2,820000,490
+139576218,Custom_In Stock Items,8240847978,Custom_In Stock Items_glamglow_glamglow mud treatment,61764591258,glamglow mud treatment,0,0,0
+139576218,Custom_In Stock Items,8240847978,Custom_In Stock Items_glamglow_glamglow mud treatment,61764592698,glamglow mud treatment,0,0,0
